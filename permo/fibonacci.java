@@ -4,7 +4,7 @@ public class fibonacci {
 		int f1 = 0;
 		int f2 = 1;
 			
-		for (int i=0; i<=1; i++){
+		for (int i=0; i<=10; i+=2){
 			System.out.println(f1);
 			System.out.println(f2);	
 
